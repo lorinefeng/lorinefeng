@@ -7,7 +7,7 @@
 我把 AI 当作可以被组合、质疑、验收的创造媒介。  
 比起成为标准岗位里的标准零件，我更想把模糊想法亲手推成能跑、能用、能被真实客户挑剔的产品。
 
-[Portfolio](https://xiaofeng-portfolio-site-pdlvquzhj-karpsies-projects.vercel.app/) · [Build in public](https://www.xiaohongshu.com/user/profile/666aece40000000007006d27) · [Email](mailto:3384832740@qq.com)
+[Portfolio](https://xiaofeng-portfolio-site.vercel.app/) · [Build in public](https://www.xiaohongshu.com/user/profile/666aece40000000007006d27) · [Email](mailto:3384832740@qq.com)
 
 </div>
 
