@@ -2,7 +2,7 @@
 
 # karpsie
 
-**AI Native Creator · Retail AI · Agent Systems · Multimodal Product**
+**AI Native Builder · Retail AI · Agent Systems · Multimodal Product**
 
 我把 AI 当作可以被组合、质疑、验收的创造媒介。  
 比起成为标准岗位里的标准零件，我更想把模糊想法亲手推成能跑、能用、能被真实客户挑剔的产品。
